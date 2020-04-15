@@ -1,0 +1,10 @@
+/*this is styling of the my project using css*/
+
+body {
+    background-color: gray;
+}
+
+header h1 {
+    text-align: center;
+    color: blue;
+}
